@@ -1,4 +1,4 @@
-package com.antai.LeetCode;
+package com.antai.RomanToInteger;
 
 import java.util.HashMap;
 
@@ -26,11 +26,4 @@ public class RomanToInteger {
 		
 		return result;  
     }
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		RomanToInteger testCase = new RomanToInteger();
-		System.out.println(testCase.romanToInt("IX"));
-
-	}
-
 }
